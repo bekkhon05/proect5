@@ -1,0 +1,21 @@
+#home-bg{
+    /* background-repeat: no-repeat; */
+    background-position: center center;
+    background-size: cover;
+    background-image: url(./banner-bg.jpg);
+    /* padding: 290px 0px 180px 0px; */
+    position: relative;
+    /* overflow: hidden; */
+    /* height: auto; */
+
+}
+body{
+margin:0px;
+}
+.input-1 input::placeholder{
+    color:red
+
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    font-family: 'Montserrat', sans-serif !important;
+}

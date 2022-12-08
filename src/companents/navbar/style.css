@@ -1,0 +1,17 @@
+#col1:hover{
+    color: black;
+    cursor: pointer;
+}
+#but1:hover{
+    background: black;
+    color:#fff;
+    cursor: pointer;
+}
+#but2:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+input::placeholder{
+    color: #fff;
+}
